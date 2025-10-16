@@ -1,0 +1,1 @@
+dinero = int(input("Introduzca el dinero que hay en su cuenta de ahorros"))
